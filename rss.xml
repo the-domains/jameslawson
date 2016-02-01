@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jameslawson]]></title>
+        <description><![CDATA[Jameslawson]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 01 Feb 2016 20:44:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Launching something new]]></title>
+            <description><![CDATA[<article><h1>Launching something new</h1><p>Well... Here we go.  The start of something new, although to be fair the only thing that's really new is this website. Many of you will know me as a DJ/Producer and you might have seen me play or have some of my music. Others of you will know me as a digital marketing manager.  I may have even have run a campaign or built a website for you.  However, unless you're a close friend or client of mine you probably won't know about this other thing that I do.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a090dcd3c9b79036e5b5a4ae8fa7932885424b6c.png"></article>]]></description>
+            <link>undefinedlaunching-something-new/index.html</link>
+            <guid isPermaLink="false">d7d3cf6d-d6bb-4e49-81ca-2a0364610383</guid>
+            <pubDate>Mon, 01 Feb 2016 20:43:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
