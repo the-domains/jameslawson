@@ -1,9 +1,20 @@
-layout_spectrum: 0.7580645
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.4874552
 color:
   saturation: 0.22333
+  brandStrength: 0
   lightness: 0.7664243
-  brandStrength: 0.7666791
   brandColors:
     - '#FFFFFF'
     - '#4576BE'
@@ -11,4 +22,5 @@ color:
     - '#CC181E'
     - '#ABBDD9'
   rhythmicContrast: 1
+layout_spectrum: 0.7580645
 name: Jameslawson
