@@ -1,0 +1,14 @@
+layout_spectrum: 0.7580645
+typography_spectrum: 0.4874552
+color:
+  saturation: 0.22333
+  lightness: 0.7664243
+  brandStrength: 0.7666791
+  brandColors:
+    - '#FFFFFF'
+    - '#4576BE'
+    - '#333333'
+    - '#CC181E'
+    - '#ABBDD9'
+  rhythmicContrast: 1
+name: Jameslawson
