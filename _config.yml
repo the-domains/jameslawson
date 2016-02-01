@@ -1,6 +1,6 @@
 name: Jameslawson
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.21072
 typography_spectrum: 0.68546
 collections:
   - index:
@@ -35,6 +35,6 @@ color:
     - '#ABBDD9'
   brandStrength: 0
   lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
