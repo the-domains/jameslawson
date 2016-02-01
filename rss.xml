@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Jameslawson]]></title>
         <description><![CDATA[Jameslawson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jameslawson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 20:44:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 01 Feb 2016 21:04:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jameslawson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[In the beginning there was Jack]]></title>
+            <description><![CDATA[<article><h1>In the beginning there was Jack</h1><p>So who watched channel four last night and saw the documentary about the evolution of dance music and how it has affected global culture forever.  Even if you have never been in a dance club you have felt the explosive force of the revolution that came out of it. I really enjoyed listening through the old tunes and remembering days gone by.  Its incredible how it all started so small with producers making tracks on a shoe string budget before exploding into the phenomenon that it is today.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a0ccfb115bcd9de9123d19d740521c5114df6f3.png"></article>]]></description>
+            <link>https://thegrid.ai/jameslawson/in-the-beginning-there-was-jack/index.html</link>
+            <guid isPermaLink="false">811d72d3-ea97-446b-bfa2-db272258febf</guid>
+            <pubDate>Mon, 01 Feb 2016 21:03:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Launching something new]]></title>
-            <description><![CDATA[<article><h1>Launching something new</h1><p>Well... Here we go.  The start of something new, although to be fair the only thing that's really new is this website. Many of you will know me as a DJ/Producer and you might have seen me play or have some of my music. Others of you will know me as a digital marketing manager.  I may have even have run a campaign or built a website for you.  However, unless you're a close friend or client of mine you probably won't know about this other thing that I do.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a090dcd3c9b79036e5b5a4ae8fa7932885424b6c.png"></article>]]></description>
-            <link>undefinedlaunching-something-new/index.html</link>
+            <description><![CDATA[<article><h1>Launching something new</h1><p>Well... Here we go.  The start of something new, although to be fair the only thing that's really new is this website. Many of you will know me as a DJ/Producer and you might have seen me play or have some of my music. Others of you will know me as a digital marketing manager.  I may have even have run a campaign or built a website for you.  However, unless you're a close friend or client of mine you probably won't know about this other thing that I do.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc1244fd03b715286328aab0968da7833ad15758.png"></article>]]></description>
+            <link>https://thegrid.ai/jameslawson/launching-something-new/index.html</link>
             <guid isPermaLink="false">d7d3cf6d-d6bb-4e49-81ca-2a0364610383</guid>
             <pubDate>Mon, 01 Feb 2016 20:43:58 GMT</pubDate>
         </item>
