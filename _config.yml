@@ -1,5 +1,7 @@
-favicon: null
-name: Jameslawson
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -29,12 +31,10 @@ color:
     - '#ABBDD9'
   rhythmicContrast: 0
 typography_spectrum: 1
+layout_spectrum: 0.5125448
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-layout_spectrum: 0.21072
+favicon: null
+name: Jameslawson
