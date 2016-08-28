@@ -1,33 +1,27 @@
-layout_spectrum: 1
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.2526882
   brandStrength: 0
-  lightness: 0.5250896
+  rhythmicContrast: 0.9301075
   brandColors:
     - '#FFFFFF'
     - '#4576BE'
     - '#333333'
     - '#CC181E'
     - '#ABBDD9'
-  rhythmicContrast: 0.9301075
-typography_spectrum: 1
+  lightness: 0.5250896
 cta:
   bucket: null
   version: null
@@ -38,3 +32,9 @@ analytics:
   facebook: null
 favicon: null
 name: Jameslawson
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 1
+layout_spectrum: 0.8369176
